@@ -1,16 +1,16 @@
-🖨️ Rookie Centuri
-A Beginner-Friendly CoreXY 3D Printer
+#**🖨️ Rookie Centuri
+A Beginner-Friendly CoreXY 3D Printer**
 
 Rookie Centuri is a compact CoreXY-based 3D printer designed to help beginners and students learn the working principles of modern 3D printers.
 
-📌 About the Project
+**📌 About the Project**
 
 Rookie Centuri is inspired by the Rook MK1 and focuses on learning over size.
 With a build volume of 110 × 110 × 110 mm, the printer is ideal for understanding CoreXY motion, calibration, and slicing without the complexity of large machines.
 
 This project is meant for education, experimentation, and skill-building.
 
-🎯 Project Objective
+**🎯 Project Objective**
 
 The main objectives of Rookie Centuri are to:
 
@@ -24,7 +24,7 @@ Learn slicer settings and print tuning
 
 Build confidence before using larger printers
 
-🧠 Why Rookie Centuri?
+**🧠 Why Rookie Centuri?**
 
 ✅ Compact size for easy learning
 
@@ -38,7 +38,7 @@ Build confidence before using larger printers
 
 Rookie Centuri focuses on building skills, not just parts.
 
-🔧 Key Features
+**🔧 Key Features**
 
 CoreXY motion mechanism
 
@@ -50,7 +50,7 @@ Optimized for PLA printing
 
 Easy to maintain and modify
 
-📚 What You’ll Learn
+**📚 What You’ll Learn**
 
 Basics of 3D printing
 
@@ -62,7 +62,7 @@ Temperature, speed, and layer tuning
 
 Mechanical structure of 3D printers
 
-🧪 Recommended Starter Prints
+**🧪 Recommended Starter Prints**
 
 Calibration Cube
 
@@ -74,7 +74,7 @@ Cable Clips
 
 Small Functional Brackets
 
-🚀 Future Scope
+**🚀 Future Scope**
 
 Improved part cooling
 
@@ -86,7 +86,7 @@ Minor quality-of-life upgrades
 
 (Build volume expansion is not a goal of this project.)
 
-🏫 Intended For
+**🏫 Intended For**
 
 Students
 
@@ -96,9 +96,9 @@ School and STEM projects
 
 Learning CoreXY systems
 
-🙌 Acknowledgement
+**🙌 Acknowledgement**
 
-This project is inspired by the Rook MK1 open-source CoreXY printer and the 3D printing community.
+This project is inspired by the SimpleCore open-source CoreXY printer and the 3D printing community.
 
 📄 License
 
